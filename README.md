@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deep Minesh Bhojak - A Mortgage Agent and a Fintech Enthusiast.
 - 👀 I’m interested in Blockchain fundamnetals, Data Analysis and Financial Data Modeling.
-- 🌱 Currently in process to become FinTech Certified Professional from University of Toronto, Toronto, ON, Cananda.
+- 🌱 Currently in process to become a Certified Professional from University of Toronto, Toronto, ON, Cananda.
 - 💞️ Currently exploring opportunities to in Finance and Data Analytics field.
 - 📫 Can always contact me bhojakdeep@yahoo.com. Would love to interact and share amazing ideas of the fintech domain.
       Visit my website 
