@@ -17,13 +17,11 @@
 
 -Data Classification.
 
--Developing and deploying ARMA, ARIMA, GARCH models for predictions and forecasting.
+-Developing and deploying ARMA, ARIMA, LSTM, DEEP NEURAL NETWORK, LINEAR REGRESSION and RANDOM FOREST AGRESSOR models for predictions and forecasting.
 
 -Pandas, Numpy, Pyviz.
 
--Natural Language Processing and Developing and deploying sentiments model. 
-
--Developing and deploying Machine Learning and Deep Learning models with Python Libraries.
+-Natural Language Processing and Sentiment anlysis
 
 
 
